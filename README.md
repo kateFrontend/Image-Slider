@@ -1,6 +1,6 @@
 <div>
   <h1>Image Slider</h1> 
-  <img src="" alt="slider" width="auto">
+  <img src="images/sliderCover.JPG" alt="slider" width="auto">
 </div>
 
 <!-- ABOUT THE PROJECT -->
