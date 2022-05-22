@@ -1,9 +1,6 @@
 const back = document.querySelector('#back');
 const next = document.querySelector('#next');
-
 const photos = ['images/01.jpeg', 'images/02.jpeg', 'images/03.jpeg', 'images/04.jpeg', 'images/05.jpeg'];
-
-//console.log(photos[2]);
 
 let i=0;
 
