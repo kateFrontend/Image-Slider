@@ -21,22 +21,18 @@ body{
 }
 
 @media all and (max-width: 1120px) {
-
     #pictures{
         width: 50vh;
     }
 }
 
 @media all and (max-width: 800px) {
-
     #pictures{
         width: 40vh;
     }
-
 }
 
 @media all and (max-width: 500px) {
-
     #pictures{
         width: 30vh;
     }
@@ -44,5 +40,4 @@ body{
     .btn{         
         font-size: 20px;
     }
-
 }
